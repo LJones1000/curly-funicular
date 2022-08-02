@@ -3,7 +3,7 @@
 # <h3> a H3 Header
 # <h4> a H4 Header
 # <h5> a H5 Header
-# <h6> a H6 Header
+# <h6> a H6 Header like this
 [Image of Yaktocat](https://octodex.github.com/images/yaktocat.png]
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
