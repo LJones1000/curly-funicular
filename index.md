@@ -5,12 +5,13 @@
 # <h5> a H5 Header
 # <h6> a H6 Header like this
 
-Yaktocat
+# Yaktocat
 ![Image of a stylised blue cat](https://octodex.github.com/images/yaktocat.png)
 
+# Some code
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
