@@ -5,9 +5,9 @@
 # <h5> a H5 Header
 # <h6> a H6 Header like this
 
-[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png]
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-```
+Yaktocat
+![Image of a stylised blue cat](https://octodex.github.com/images/yaktocat.png)
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
